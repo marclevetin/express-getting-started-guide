@@ -1,0 +1,19 @@
+{
+  "name": "express-getting-started-guide",
+  "version": "1.0.0",
+  "description": "tutorial for express from their website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marclevetin/express-getting-started-guide.git"
+  },
+  "author": "Marc Levetin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marclevetin/express-getting-started-guide/issues"
+  },
+  "homepage": "https://github.com/marclevetin/express-getting-started-guide#readme"
+}
