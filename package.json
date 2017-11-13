@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/marclevetin/express-getting-started-guide/issues"
   },
-  "homepage": "https://github.com/marclevetin/express-getting-started-guide#readme"
+  "homepage": "https://github.com/marclevetin/express-getting-started-guide#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
